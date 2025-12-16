@@ -74,7 +74,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.title("🟦 Klasifikasi Motif Batik Nusantara — EfficientNetB0 (TFLite)")
+st.title("Klasifikasi Motif Batik Nusantara CNN")
 
 # =========================================================
 #                   LOAD TFLITE MODEL
