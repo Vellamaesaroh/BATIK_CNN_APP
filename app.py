@@ -162,5 +162,5 @@ with right:
     Dataset: Batik Nusantara  
     """)
 
-    st.success("")
+   
 
